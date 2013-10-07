@@ -9,6 +9,7 @@
 */
 @font-face {
   font-family: 'Junction';
+  src: url('Junction-webfont.eot'),
   src: url('Junction-webfont.eot?#iefix') format('embedded-opentype'),
        url('Junction-webfont.woff') format('woff'),
        url('Junction-webfont.ttf')  format('truetype'),
