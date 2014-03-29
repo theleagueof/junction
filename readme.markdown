@@ -1,4 +1,4 @@
-![Junction](https://github.com/theleagueof/junction/raw/master/images/junction-4.png)
+![Junction](https://github.com/theleagueof/junction/raw/master/images/junction-1.png)
 
 Junction
 ========
